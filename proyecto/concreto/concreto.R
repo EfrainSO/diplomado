@@ -6,7 +6,7 @@ library(mlr3tuning)
 
 
 #lectura de datos
-datos<-read.csv("https://raw.githubusercontent.com/EfrainSO/diplomado/main/proyecto/concreto.csv")
+datos<-read.csv("https://raw.githubusercontent.com/EfrainSO/diplomado/main/proyecto/concreto/concrete_data.csv")
 
 #Analisis de las variables
 str(datos)
