@@ -23,10 +23,9 @@ tipos especificos de cristal, porque estos se encontraban en menor medida
    -sodio: numerico continuo
 
 
-   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-   
-   
-  10.73   12.91   13.30   13.41   13.82   17.38 
+   |Min. |1st Qu.  |Median |Mean |3rd Qu.|Max.| 
+   |-----|---------|-------|-----|-------|----|   
+  |10.73 |  12.91  | 13.30 |  13.41 |  13.82 |  17.38 |
   
   
 -magnesio: numerico continuo
