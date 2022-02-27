@@ -21,6 +21,7 @@ tipos especificos de cristal, porque estos se encontraban en menor medida
   
   
    -sodio: numerico continuo
+   
 ![Sodio](https://github.com/EfrainSO/diplomado/blob/main/Proyecto%202/Glass/Imagenes/sodio.png)
 
    |Min. |1st Qu.  |Median |Mean |3rd Qu.|Max.| 
