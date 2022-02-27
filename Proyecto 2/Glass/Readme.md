@@ -1,5 +1,5 @@
 # Glass
-Data set de tipo clasificación
+Data set de tipo clasificación 214 datos 11  columnas
 
 Se analiza y alista el data set del cristal
 
