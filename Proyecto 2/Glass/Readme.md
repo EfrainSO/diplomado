@@ -13,9 +13,11 @@ tipos especificos de cristal, porque estos se encontraban en menor medida
 
    -Indice_refracción: numerico continuo
    
-   ![imagen](https://github.com/EfrainSO/diplomado/blob/main/Proyecto%202/Glass/Imagenes/indice.png)
+   ![Indice de refraccion](https://github.com/EfrainSO/diplomado/blob/main/Proyecto%202/Glass/Imagenes/indice.png)
 
-   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. //
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   
+   
   1.511   1.517   1.518   1.518   1.519   1.534 
   
   
@@ -23,6 +25,8 @@ tipos especificos de cristal, porque estos se encontraban en menor medida
 
 
    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   
+   
   10.73   12.91   13.30   13.41   13.82   17.38 
   
   
@@ -30,6 +34,8 @@ tipos especificos de cristal, porque estos se encontraban en menor medida
 
 
    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   
+   
   0.000   2.115   3.480   2.685   3.600   4.490 
   
   
@@ -38,6 +44,8 @@ tipos especificos de cristal, porque estos se encontraban en menor medida
 
 
    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   
+   
   0.290   1.190   1.360   1.445   1.630   3.500 
 
 
@@ -45,6 +53,8 @@ tipos especificos de cristal, porque estos se encontraban en menor medida
 
 
    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   
+   
   69.81   72.28   72.79   72.65   73.09   75.41 
 
 
@@ -52,6 +62,8 @@ tipos especificos de cristal, porque estos se encontraban en menor medida
 
 
    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   
+   
  0.0000  0.1225  0.5550  0.4971  0.6100  6.2100 
 
 
@@ -59,6 +71,8 @@ tipos especificos de cristal, porque estos se encontraban en menor medida
 
 
    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   
+   
   5.430   8.240   8.600   8.957   9.172  16.190 
 
 
@@ -66,6 +80,8 @@ tipos especificos de cristal, porque estos se encontraban en menor medida
 
 
    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   
+   
   0.000   0.000   0.000   0.175   0.000   3.150 
 
 
@@ -73,6 +89,8 @@ tipos especificos de cristal, porque estos se encontraban en menor medida
 
 
    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   
+   
 0.00000 0.00000 0.00000 0.05701 0.10000 0.51000 
 
 
