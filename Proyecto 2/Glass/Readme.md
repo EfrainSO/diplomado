@@ -13,7 +13,7 @@ tipos especificos de cristal, porque estos se encontraban en menor medida
 
    -Indice_refracción: numerico continuo
    
-   [imagen](https://github.com/EfrainSO/diplomado/blob/main/Proyecto%202/Glass/Imagenes/indice.png)
+   [imagen](https://github.com/EfrainSO/diplomado/blob/869c669494961928e1e34d30a680c6991706e528/Proyecto%202/Glass/Imagenes/indice.png)
 
    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
   1.511   1.517   1.518   1.518   1.519   1.534 
