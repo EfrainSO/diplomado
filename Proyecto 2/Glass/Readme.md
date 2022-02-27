@@ -100,6 +100,8 @@ tipos especificos de cristal, porque estos se encontraban en menor medida
 
 1,2,3,4,5,6
 
+|Tabla de frecuencias|
+|------------------------------------------------|
 |Cris 1 |Cris 2| Cris 3| Cris 4 | Cris 5 | Cris 6|
 |-------|-------|------|---------|-------|--------|
 |70 | 76 | 17 | 13| 9| 29|
