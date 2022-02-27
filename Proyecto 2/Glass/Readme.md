@@ -106,3 +106,10 @@ tipos especificos de cristal, porque estos se encontraban en menor medida
 |-------|-------|------|---------|-------|--------|
 |70 | 76 | 17 | 13| 9| 29|
 
+
+#### Outliers en cada tipo
+
+|Cris 1 |Cris 2| Cris 3| Cris 4 | Cris 5 | Cris 6|
+|-------|-------|------|---------|-------|--------|
+|10 | 18 | 2 | 11| 4| 27|
+
