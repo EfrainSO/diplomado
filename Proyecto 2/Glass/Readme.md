@@ -15,10 +15,9 @@ tipos especificos de cristal, porque estos se encontraban en menor medida
    
    ![Indice de refraccion](https://github.com/EfrainSO/diplomado/blob/main/Proyecto%202/Glass/Imagenes/indice.png)
 
-   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-   
-   
-  1.511   1.517   1.518   1.518   1.519   1.534 
+   |Min. |1st Qu.  |Median |Mean |3rd Qu.|Max.| 
+   |-----|---------|-------|-----|-------|----|   
+   |1.511|1.517    |1.518  |1.518| 1.519 |1.534| 
   
   
    -sodio: numerico continuo
