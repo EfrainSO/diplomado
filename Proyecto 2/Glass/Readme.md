@@ -1,4 +1,6 @@
 # Glass
+Data set de tipo clasificación
+
 Se analiza y alista el data set del cristal
 
 No se encontraron datos faltantes en el data set original
@@ -9,14 +11,14 @@ tipos especificos de cristal, porque estos se encontraban en menor medida
 ## Columnas:
 
 
-*Indice_refracción: numerico continuo
+   -Indice_refracción: numerico continuo
 
 
    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
   1.511   1.517   1.518   1.518   1.519   1.534 
   
   
-*sodio: numerico continuo
+   -sodio: numerico continuo
 
 
    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
