@@ -8,6 +8,8 @@ que aguanta la mezcla una vez secada
 
 ### cemento: numerica continua
 
+![cemento](https://github.com/EfrainSO/diplomado/blob/main/Proyecto%202/Concrete/Imagenes/concrete.png)
+
   | Min. | 1st Qu. | Median  |  Mean | 3rd Qu.  |  Max. |
   |-------|--------|--------|--------|--------|--------|
   |102.0  | 192.4  | 272.9  | 281.2  | 350.0  | 540.0 |
