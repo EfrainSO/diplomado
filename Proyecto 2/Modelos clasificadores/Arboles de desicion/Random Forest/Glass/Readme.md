@@ -2,6 +2,7 @@
 El modelo se entreno con  1250 arboles con un error de clasificacion de 0.2437229
 
 La matriz de confusion es
+
 |  |"1" |"2" |"3" |"4" |"5" |"6"|
 |--|--|--|--|--|--|
 |"1"| 63| 2| 6| 0| 0| 1|
