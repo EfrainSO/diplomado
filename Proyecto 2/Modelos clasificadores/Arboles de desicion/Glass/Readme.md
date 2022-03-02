@@ -6,7 +6,7 @@ El tiempo para la realización de la misma fue de aproximadamente 10 minutos
 La matriz de confusión es 
 
 |  |"1"|"2"|"3"|"4"|"5"|"6"|
-|--|--|--|--|--|--|--|
+
 |"1"|62|5|3|0|2|1|
 |--|--|--|--|--|--|--|
 |"2"|7|69|9|1|2|2|
