@@ -1,0 +1,12 @@
+# Modelo de Random forest para Glass
+El modelo se entreno con  1250 arboles con un error de clasificacion de 0.2437229
+
+La matriz de confusion es
+|  |"1" |"2" |"3" |"4" |"5" |"6"|
+|--|--|--|--|--|--|
+|"1"| 63| 2| 6| 0| 0| 1|
+|"2"| 5| 71| 4| 1| 0| 1|
+|"3"| 2| 1| 7| 0| 0| 0|
+|"4"| 0| 2| 0| 12| 0| 1|
+|"5"| 0| 0| 0| 0| 9| 0|
+|"6"| 0| 0| 0| 0| 0| 26|
