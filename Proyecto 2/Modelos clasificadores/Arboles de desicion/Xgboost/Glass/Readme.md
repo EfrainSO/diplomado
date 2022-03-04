@@ -1,1 +1,1 @@
-# Uso del algoritmo xboost que es un deribado del random forest
+# Uso del algoritmo xboost que es un derivado del random forest
