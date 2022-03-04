@@ -23,3 +23,10 @@ En efecto, si existen covariables que tengan un alto poder predictivo, estas var
 árboles para hacer sus predicciones. Lo cual no tiene mucho beneficio a nivel de información, es decir “casi” tendríamos árboles
 idénticos. Es por esta razón que resulta más efectivo tener árboles que no estén correlacionados, de modo que árboles diferentes
 contribuyan a realizar predicciones diferentes.
+
+## Hyperparametros
+El hiperparametro que mas se vigila es el nuemero de arboles que se utilizan en el bosque, y estos se miden por una grafica,
+la grafica del OOB error, que mide el error de cada una de las posibilidades en la seleccion de categorias, esto debido a que,
+el random forest utiliza el bootstraping, por lo que en algunos arboles no aparecen estas categorias o aparecen en menor medida,
+y el error de clasificacion en esos arboles para esas variables es mayor que en el resto, y lo nivelamos añadiendo mas arboles,
+por eso observamos la grafica del  OOB error, para elegir la cantidad de arboles adecuada.
