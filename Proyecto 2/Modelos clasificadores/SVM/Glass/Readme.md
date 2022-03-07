@@ -1,5 +1,6 @@
 # Metodo de vectores soporte para el data set glass
 Error de clasificacion de 0.3270563
+Mas rapido que cualquier variante de los arboles
 
 # Matriz de confusion
 
