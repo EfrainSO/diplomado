@@ -3,7 +3,7 @@ El modelo se entreno con 50 arboles con un error de clasificación de 0.261039
 
 # Matriz de confusión
 
-|"1"| "2"| "3"| "4"| "5"| "6"|
+|  |"1"| "2"| "3"| "4"| "5"| "6"|
 |---|----|----|----|----|----|
 |"1" |70| 0| 0| 0| 0| 0|
 |---|----|----|----|----|----|
