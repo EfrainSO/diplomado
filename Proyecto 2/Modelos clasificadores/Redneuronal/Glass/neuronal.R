@@ -1,13 +1,14 @@
-# Implementación de una red neuronal para resolver
-# un problema de clasificiación. El tipo de vidrio
-# data set: glass
-
-# Instalar el paquete neuralnet: install.packages("neuralnet")
+####################################
+#####   Data set Glass      ########
+#####     Algoritmo         ########
+#####   Red neuronal        ########
+#####  Efrain Soto Olmos    ########
+####################################
 
 library(neuralnet)
 library(tidyverse)
 
-# Empleamos una función para reescalar los datos al dominio [0,1].
+# Empleamos una funciÃ³n para reescalar los datos al dominio [0,1].
 
 min.max<-function(v)
 {
